@@ -1,3 +1,9 @@
+body {
+    width: auto;
+    height: auto;
+    background: linear-gradient(0deg, rgb(155, 155, 155) 5%, rgb(120, 120, 120) 40%, rgb(60, 60, 60) 75%);
+}
+
 h1 {
     color: rgb(0, 0, 0);
     text-align: center;
@@ -25,7 +31,6 @@ p {
     padding-right: 50px;
     font-family: arial, sans-serif;
 }
-
 
 #topBtn {
     display: none;
